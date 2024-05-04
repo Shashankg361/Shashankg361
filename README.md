@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Shashank
-- 👀 I’m interested in coding and development
+- 🎓 Pursuing a Computer Engineering degree, expected completion in 2024. Passionate about software development. Check out my projects below!
+- 👀 I’m interested in coding and Web3
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ..
+- 🏹 Aim to learn, build and deploy
 - 📫 How to reach me shashankg361@gmail.com
 
 <!---
